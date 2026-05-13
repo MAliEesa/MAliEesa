@@ -33,30 +33,26 @@
 
 ## 🛠️ Skills
 
-<p align="center">
+<div align="center">
 <table>
 <tr>
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
-<br/><br/>
 </td>
 <td width="50%" align="center">
 <h3>🤖 AI / ML</h3>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-<br/><br/>
 </td>
 </tr>
 <tr>
 <td width="50%" align="center">
 <h3>🗄️ Databases & Cloud</h3>
 <img src="https://skillicons.dev/icons?i=mysql,azure" />
-<br/><br/>
 </td>
 <td width="50%" align="center">
 <h3>🧰 Tools & Platforms</h3>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
-<br/><br/>
 </td>
 </tr>
 <tr>
@@ -66,12 +62,10 @@
 <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" />
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Ettercap-black?style=for-the-badge" />
-<br/><br/>
 </td>
 </tr>
 </table>
-</p>
-
+</div>
 ---
 
 ## 🚀 Featured Projects
