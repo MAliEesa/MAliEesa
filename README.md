@@ -36,27 +36,25 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
+<td align="center">
+<h3>💻 Languages</h3>
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
 </td>
-<td width="50%" align="center">
+<td align="center">
 <h3>🤖 AI / ML</h3>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </td>
-</tr>
-<tr>
-<td width="50%" align="center">
+<td align="center">
 <h3>🗄️ Databases & Cloud</h3>
 <img src="https://skillicons.dev/icons?i=mysql,azure" />
 </td>
-<td width="50%" align="center">
-<h3>🧰 Tools & Platforms</h3>
+<td align="center">
+<h3>🧰 Tools</h3>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td colspan="4" align="center">
 <h3>🔐 Cybersecurity</h3>
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" />
@@ -66,7 +64,6 @@
 </tr>
 </table>
 </div>
----
 
 ## 🚀 Featured Projects
 
