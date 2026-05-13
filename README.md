@@ -1,20 +1,6 @@
-<!-- Banner -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║        🔐 CYBERSECURITY  ·  🤖 AI / ML  ·  🌐 WEB DEV       ║
-║                                                              ║
-║               M U H A M M A D   A L I   E E S A             ║
-║                                                              ║
-║         Building intelligent systems & secure software       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<!-- Uncomment once you upload pic1.png to this repo -->
-<!-- <img src="./pic1.png" width="120" style="border-radius:50%"/> -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0C0A,100:C9A84C&height=200&section=header&text=Muhammad%20Ali%20Eesa&fontSize=40&fontColor=F0E8D6&animation=twinkling&desc=Cybersecurity%20%7C%20AI%2FML%20%7C%20Web%20Dev&descAlignY=62&descSize=18)
 
 ### Hi, I'm Ali — but you can call me Warriordude 👾
 
@@ -91,6 +77,4 @@
 
 ---
 
-<div align="center">
-<sub>⚡ Building things that matter · Pakistan 🇵🇰</sub>
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C9A84C,100:0D0C0A&height=100&section=footer)
