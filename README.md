@@ -1,50 +1,77 @@
-<div align="center">
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0C0A,100:C9A84C&height=200&section=header&text=Muhammad%20Ali%20Eesa&fontSize=40&fontColor=F0E8D6&animation=twinkling&desc=Cybersecurity%20%7C%20AI%2FML%20%7C%20Web%20Dev&descAlignY=62&descSize=18)
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Muhammad Ali Eesa</strong>
+</h1>
+<h3>Cybersecurity · AI / ML · Web Development</h3>
 
-### Hi, I'm Ali — but you can call me Warriordude 👾
-
-**CS Student · ML Engineer in progress · Cybersecurity Enthusiast · Web Developer**
-
-*University of Rawalpindi · Rawalpindi, Pakistan 🇵🇰*
-
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+  <p>
+    BS Computer Science student focused on ML engineering and cybersecurity research.
+    I build production websites, train models from scratch, and dig deep into network security —
+    everything from transformers to packet analysis.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/🌍_Pakistan-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤖_Building_Artoria_LLM-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🛡️_StrixSec_in_progress-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/⚡_Building_to_Understand-1e1e2e?style=for-the-badge" />
+  </p>
+  <h3>🔗 Connect</h3>
+  <p align="left">
+    <a href="https://github.com/MAliEesa"><img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/muhammad-ali-eesa-630747369"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://hamzepro.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  </p>
+  <img src="https://komarev.com/ghpvc/?username=MAliEesa&style=flat-square&color=C9A84C" alt="Profile Views"/>
 </div>
 
----
-
-## 🧠 About Me
-
-- 🎓 BS Computer Science — 4th Semester (graduating ~2028)
-- 🔐 Focused on **ML + Cybersecurity** — building toward an ML engineering career with security research depth
-- 🌐 Co-running a web dev business — building production sites for local businesses
-- 🤖 Building **Artoria** — a small transformer-based LLM from scratch on an RTX 4060
-- 🛡️ Cybersecurity concept in progress: **StrixSec** — an ML-based IDS/IPS system
-- 💻 Everything I build, I build to understand — not just to ship
+<br clear="all" />
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Databases & Cloud**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-**Cybersecurity & ML**
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+<br/><br/>
+</td>
+<td width="50%" align="center">
+<h3>🤖 AI / ML</h3>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+<h3>🗄️ Databases & Cloud</h3>
+<img src="https://skillicons.dev/icons?i=mysql,azure" />
+<br/><br/>
+</td>
+<td width="50%" align="center">
+<h3>🧰 Tools & Platforms</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,linux" />
+<br/><br/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<h3>🔐 Cybersecurity</h3>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Ettercap-black?style=for-the-badge" />
+<br/><br/>
+</td>
+</tr>
+</table>
+</p>
 
 ---
 
@@ -52,29 +79,19 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Hamza Productions](https://hamzepro.vercel.app) | Full production website for a Pakistan-based videography & tourism business | HTML · CSS · JS · Vercel |
-| Artoria LLM | Small transformer-based LLM built from scratch — BPE tokenizer, embeddings, attention | Python · PyTorch |
-| StrixSec *(in progress)* | ML-based Intrusion Detection & Prevention System concept | Python · ML · Networking |
+| [Hamza Productions](https://hamzepro.vercel.app) | Full production site for a Pakistan-based videography & tourism business | HTML · CSS · JS · Vercel |
+| Artoria LLM | Transformer-based LLM built from scratch — BPE tokenizer, embeddings, attention | Python · PyTorch |
+| StrixSec *(in progress)* | ML-based Intrusion Detection & Prevention System | Python · ML · Networking |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![MAliEesa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAliEesa&show_icons=true&theme=dark&hide_border=true&bg_color=0D0C0A&title_color=C9A84C&icon_color=C9A84C&text_color=F0E8D6)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MAliEesa&layout=compact&theme=dark&hide_border=true&bg_color=0D0C0A&title_color=C9A84C&text_color=F0E8D6)
-
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MAliEesa&show_icons=true&theme=dark&hide_border=true&bg_color=0D0C0A&title_color=C9A84C&icon_color=C9A84C&text_color=F0E8D6" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=MAliEesa&theme=dark&hide_border=true" alt="Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAliEesa&layout=compact&theme=dark&hide_border=true&bg_color=0D0C0A&title_color=C9A84C&text_color=F0E8D6" />
 </div>
-
----
-
-## 🔗 Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-ali-eesa-630747369)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://hamzepro.vercel.app)
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:C9A84C,100:0D0C0A&height=100&section=footer)
