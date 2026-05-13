@@ -16,7 +16,6 @@
   <p>
     <img src="https://img.shields.io/badge/🌍_Pakistan-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/🤖_Building_Artoria_LLM-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🛡️_StrixSec_in_progress-1e1e2e?style=for-the-badge" />
     <img src="https://img.shields.io/badge/⚡_Building_to_Understand-1e1e2e?style=for-the-badge" />
   </p>
   <h3>🔗 Connect</h3>
@@ -81,7 +80,6 @@
 |---|---|---|
 | [Hamza Productions](https://hamzepro.vercel.app) | Full production site for a Pakistan-based videography & tourism business | HTML · CSS · JS · Vercel |
 | Artoria LLM | Transformer-based LLM built from scratch — BPE tokenizer, embeddings, attention | Python · PyTorch |
-| StrixSec *(in progress)* | ML-based Intrusion Detection & Prevention System | Python · ML · Networking |
 
 ---
 
